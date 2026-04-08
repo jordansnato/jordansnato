@@ -2,6 +2,12 @@
 
 💻 Futuro Desenvolvedor Front-end  
 🚀 Apaixonado por tecnologia  
+🤷‍♂️ Quem sou eu?
+    
+    - Prazer me chamo Jordan e tenho 21 anos 
+    - No momento estou estudando pra ser um Dev Front-End no Entra21
+    
+    
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
