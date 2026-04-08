@@ -3,9 +3,12 @@
 💻 Futuro Desenvolvedor Front-end  
 🚀 Apaixonado por tecnologia  
 🤷‍♂️ Quem sou eu?
-    
     - Prazer me chamo Jordan e tenho 21 anos 
     - No momento estou estudando pra ser um Dev Front-End no Entra21
+
+    Objetivos
+    - Meu Primeiro Objetivo é conseguir ingressar no mercado de tecnologia
+    - poder coperar para o crescimento da empresa
     
     
 
