@@ -1,6 +1,6 @@
 # Olá, eu sou Jordan Lemos dos Santos 👋
 
-💻 Futuro Desenvolvedor Front-end  
+💻 Desenvolvedor Front-end  
 🚀 Apaixonado por tecnologia  
 🤷‍♂️ Quem sou eu?
     - Prazer me chamo Jordan e tenho 21 anos 
